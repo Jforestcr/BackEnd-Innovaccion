@@ -14,7 +14,7 @@ btnNo.addEventListener('mouseenter', function (e) {
 
 btnSi.addEventListener('click',function(e){
 alert("Sabia que dir+ias que sí. Casemonos ya y tengamos hijos. TE AMO❤️❤️❤️")
-divModoSexo.style.display = "block";
-const cancion = new Audio();
-cancion.play();
+divModoSexo.style.display = 'block';
+    const cancion = new Audio("img\\modo_hot.mp3");
+    cancion.play();
 });
